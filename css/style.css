@@ -89,6 +89,7 @@ img {
 .button-item {
   padding-left: 485px;
   padding-right: 485px;
+  padding-bottom: 200px;
 }
 .item {
   padding-top: 94px;
@@ -188,6 +189,7 @@ img {
 }
 .telephone-list {
   margin-top: 9px;
+  padding-bottom: 60px;
 }
 
 /*==============000==============*/
@@ -371,13 +373,13 @@ img {
 }
 
 .footer-information {
-  width: 1600px;
-  height: 600px;
+  /*width: 1600px;
+  height: 600px;*/
   background-color: #2f303a;
 }
 .footer-information-two {
-  width: 1600px;
-  height: 252px;
+  /*width: 1600px;
+  height: 252px;*/
   background-color: #2f303a;
 }
 .address {
